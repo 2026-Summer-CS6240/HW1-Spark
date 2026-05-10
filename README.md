@@ -6,16 +6,17 @@ Author
 - Joe Sackett (2018)
 - Updated by Nikos Tziavelis (2023)
 - Updated by Mirek Riedewald (2024)
+- Updated by Diego Rivera Correa (2026)
 
 Installation
 ------------
 These components need to be installed first:
 - OpenJDK 11
 - Hadoop 3.3.5
-- Maven (Tested with version 3.6.3)
-- AWS CLI (Tested with version 1.22.34)
+- Maven (Tested with version 3.9.15)
+- AWS CLI (Tested with v1)
 
-- Scala 2.12.17 (you can install this specific version with the Coursier CLI tool which also needs to be installed)
+- Scala 2.12.21 (you can install this specific version with the Coursier CLI tool which also needs to be installed)
 - Spark 3.3.2 (without bundled Hadoop)
 
 After downloading the hadoop and spark installations, move them to an appropriate directory:
